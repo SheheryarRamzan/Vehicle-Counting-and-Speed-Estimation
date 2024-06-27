@@ -1,2 +1,2 @@
 # Vehicle-Counting-and-Speed-Estimation
-Vehicle Counting and Speed Estimation
+Developed a YOLOv8-based system for object counting and speed estimation, allowing users to define regions of interest. This system was designed for traffic monitoring, where I implemented average vehicle speed calculation to provide accurate and efficient traffic analysis. By leveraging YOLOv8's robust object detection capabilities, the system ensures precise counting and speed measurement, facilitating improved traffic management and monitoring.
